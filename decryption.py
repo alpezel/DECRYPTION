@@ -13,6 +13,8 @@ for i in range(len(input_string)):
     elif input_string[i] == "#":
         output_string += "i"
     # if +, change to "o"
+    elif input_string[i] == "+":
+        output_string += "o"
     # !, change to "u"
     else:
         output_string += input_string[i]
