@@ -16,6 +16,8 @@ for i in range(len(input_string)):
     elif input_string[i] == "+":
         output_string += "o"
     # !, change to "u"
+    elif input_string[i] == "!":
+        output_string += "u"
     else:
         output_string += input_string[i]
 
