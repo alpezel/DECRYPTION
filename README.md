@@ -16,6 +16,8 @@ A Python Script that will accept a string as encrypted text and then the program
 
 # Example output
 
+![](images/expdecrypt.PNG)
+
 # How To Use / Run
 1. Install Python on your computer to run the code. You can download its latest version here: https://www.python.org/downloads/ 
 2. Copy the code from the repository. 
