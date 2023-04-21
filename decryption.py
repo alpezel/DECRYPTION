@@ -7,6 +7,8 @@ for i in range(len(input_string)):
     if input_string[i] == "*":
         output_string += "a"
     # if &, change to  "e"
+    elif input_string[i] == "&":
+        output_string += "e"
     # if #, change to "i"
     # if +, change to "o"
     # !, change to "u"
