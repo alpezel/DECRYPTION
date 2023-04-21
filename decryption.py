@@ -1,4 +1,4 @@
-# ask user for the input
+# ask user for the input (run program & test this text: th& q!#ck br+wn f+x j!mps +v&r th& l*zy d+g)
 input_string = input("What's the encrypted text you want to decrypt?")
 output_string = ""
 # check the character using loop
